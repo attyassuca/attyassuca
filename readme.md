@@ -2,7 +2,7 @@
 <h3 align="center">I'm curious about everything cloud and devops related. .</h3>
 
  <div align="center">
-<img align="center" alt="Devops" width="400" src="https://github.com/attyassuca/attyassuca/blob/main/devops.gif">
+<img align="center" alt="Devops" width="600" src="https://github.com/attyassuca/attyassuca/blob/main/devops.gif">
   </div>
 
    <div align="center">
